@@ -6,6 +6,7 @@ public class FeatureCode {
 
     public static void main(String[] args) {
         System.out.println("avesome  feature is in progress ");
+        System.out.println("test how are you ");
     }
 
 }
